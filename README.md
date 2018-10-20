@@ -7,6 +7,7 @@ This application code is cordoba platfrom based android application. This applic
 
 
 #dependencies 
+
 Bower
 
 Nodejs 
